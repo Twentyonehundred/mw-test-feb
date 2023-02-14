@@ -1,5 +1,6 @@
 /**
  * Global application config file
+ * Change test
  */
 const appConfig = {
   /**
